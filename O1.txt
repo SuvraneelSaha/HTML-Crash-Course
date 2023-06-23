@@ -1,0 +1,18 @@
+What is HTML?
+hypertext markup language 
+not a programming language
+markup language for creating webpages/documents 
+for a language to be a a programming language - it is 
+necessary to have programming logic example conditionals , loops , 
+functions etc 
+examples of programming language are js , java , c++ 
+
+
+why html is important 
+it is building blok of web 
+
+through HTML we actually can build websites it wont be functional 
+but it can display information on the internet and we could also use css
+to style it . 
+
+But soley with html we can build websites

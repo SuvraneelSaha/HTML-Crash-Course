@@ -1,0 +1,8 @@
+to get started building websites we just need two things 
+one is a web browser and another one is a text editor 
+thats it 
+Recommended - Google Chrome 
+              and VS Code 
+
+
+            

@@ -1,0 +1,15 @@
+ points : 
+ we dont need a server or to host to view and create html files
+ the file name can be anything just the extension needs to be .html in the end 
+ the html files can run on a web browser
+
+ the index.html is the root / home page of a website 
+
+ if we go to a domain ex - www.something.com 
+ the file will be shown on the root domain is the index.html file 
+
+
+ about.html then www.something.com/about.html 
+
+ by default whenever we go to a website the index.html file loads up as the base or root page
+ 
